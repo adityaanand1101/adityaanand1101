@@ -82,15 +82,6 @@ class TechInnovator:
 <!-- Tech Wave Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-## 📊 Neural Activity Metrics
-
-<div align="center">
-
-    <div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
-</div>
-
 <!-- Neon Pulse Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
